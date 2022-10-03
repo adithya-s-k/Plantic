@@ -1,1 +1,3 @@
 ## Plantic
+
+Plantic is a smart plant probe that gives your plants a voice and it helps you to look after your plants in smart way. It can measure soil moisture, light intensity, temperature and other essential parameters. The probe connects your plants with your device so that you get real-time updates and will be able to monitor. The interface compares measurements from the probe with a database consisting of plant data and accordingly notifies you whenever your plan needs to feed or water. It will offer you educational tutorials and other content i.e an Information System which will inspire you to take care of your plant and know more about it.
