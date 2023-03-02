@@ -14,6 +14,10 @@ The data collected by Plantic is transmitted wirelessly to a user-friendly app t
 
 ![image](https://user-images.githubusercontent.com/27956426/222060089-e5a92258-f316-4db1-89d7-3ee9495f94dc.png)
 
+https://user-images.githubusercontent.com/27956426/222522737-d5619f6d-ce76-4b47-b3ca-0198dc2cd12a.mp4
+
+https://user-images.githubusercontent.com/27956426/222522780-852f31fc-3672-4b8e-affc-25448002e23c.mp4
+
 # Features
 - Plantic offers real-time plant health monitoring for indoor gardeners and small-scale farmers.
 - The device is highly efficient, making it ideal for both home gardening and outdoor agriculture use.
@@ -24,6 +28,7 @@ The data collected by Plantic is transmitted wirelessly to a user-friendly app t
 
 # Conclusion
 Plantic offers a powerful and efficient solution for plant health monitoring. With its advanced sensors and user-friendly app, the device can help users keep track of their plants' health and take the necessary actions to ensure optimal growth and yield. Whether used for home gardening or outdoor agriculture, Plantic is an essential tool for any plant lover or farmer looking to optimize their plant's health.
+
 
 
 
